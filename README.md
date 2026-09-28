@@ -11,7 +11,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <a href="https://omkar-portfolio-live.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/omkar333333"><img src="https://img.shields.io/badge/Status-Open_to_Internships_&_Roles-brightgreen?style=for-the-badge" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -37,7 +36,7 @@
 >   - ⚡ **GPU Hardware Acceleration**: Offloads transcoding from CPU to NVIDIA NVENC ASICs for 5x–10x speedups.
 >   - 🧠 **Dynamic Bitrate Capping**: Probes source streams using `ffprobe` and calculates mathematical CRF/bitrate upper-bounds to avoid accidental file bloating.
 >   - 📊 **Telemetry Logging**: SQLite database logging execution runtimes, compression ratios, and megabytes conserved.
-> - **Direct Links**: [GitHub Profile](https://github.com/omkar333333) • [Live Portfolio Website](https://omkar-portfolio-live.vercel.app)
+> - **Direct Contact**: [GitHub Profile](https://github.com/omkar333333) • [Contact Email](mailto:your-email@example.com)
 
 ---
 
@@ -124,5 +123,4 @@ Open your browser and navigate to: `http://localhost:5000`
 
 **Omkar Mote**  
 - 🎓 *B.E. in Artificial Intelligence & Data Science*  
-- 🌐 [Live Portfolio Website](https://omkar-portfolio-live.vercel.app)  
 - 💻 [GitHub Profile](https://github.com/omkar333333)
